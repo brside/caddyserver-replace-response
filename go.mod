@@ -1,4 +1,4 @@
-module github.com/caddyserver/replace-response
+module github.com/brside/caddyserver-replace-response
 
 go 1.18
 
